@@ -1,7 +1,7 @@
-Quick Start PH
+Quick Start PH - WEB
 ========
 
-Como gerenciar e fazer releases do seu projeto com o git-flow e o maven
+Como criar um projeto java para a web
 
-http://sitedo.ph/como-gerenciar-e-fazendo-releases-seu-projeto-com-o-git-flow-e-o-maven/
+http://sitedo.ph/xpto/
 
